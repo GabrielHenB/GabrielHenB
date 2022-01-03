@@ -6,9 +6,9 @@ and computer graphics as well.
 - I have basic knowledge in the following languages/frameworks: Java, C, HTML, CSS, JavaScript, SQL, Bootstrap(framework), Flutter.
 
 - 📫 How to reach me:
--- LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
+- LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
 
--- Email: ghbraz17@gmail.com
+- Email: ghbraz17@gmail.com
 
 <!---
 GabrielHenB/GabrielHenB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
