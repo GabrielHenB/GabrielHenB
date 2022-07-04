@@ -13,7 +13,7 @@ and computer graphics as well.
 ========= PT-BR ==========
 - 👋 Olá, sou Gabriel, um estudante de engenharia de computação.
 
-- 👀 Me interesso por desenvolvimento de software e hardware, principalmente desenvolvimento web e mobile. Mas me interesso em aprender segurança computacional e computação gráfica.
+- 👀 Me interesso por desenvolvimento de software e hardware, principalmente desenvolvimento web e mobile. Mas também me interesso em aprender segurança computacional e computação gráfica.
 
 - Tenho conhecimento básico nas seguintes linguagens/frameworks: Java, C, HTML, CSS, JavaScript, SQL, Bootstrap, Flutter.
 
