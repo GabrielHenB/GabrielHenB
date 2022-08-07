@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gabriel, a computer engineering student.
 
-- 👀 I’m interested in software and hardware development, mainly web or mobile development, but I also have an interest in learning computer security, hardware coding
-and computer graphics as well.
+- 👀 I’m interested in software development, on web or mobile. I also like learning computer security and computer graphics as well.
 
 - I have basic knowledge in the following languages/frameworks: Java, C, HTML, CSS, JavaScript, SQL, Bootstrap(framework), Flutter.
 
@@ -13,7 +12,7 @@ and computer graphics as well.
 ========= PT-BR ==========
 - 👋 Olá, sou Gabriel, um estudante de engenharia de computação.
 
-- 👀 Me interesso por desenvolvimento de software e hardware, principalmente desenvolvimento web e mobile. Mas também me interesso em aprender segurança computacional e computação gráfica.
+- 👀 Me interesso por desenvolvimento de software, em web e mobile. Mas também me interesso em aprender segurança e computação gráfica.
 
 - Tenho conhecimento básico nas seguintes linguagens/frameworks: Java, C, HTML, CSS, JavaScript, SQL, Bootstrap, Flutter.
 
