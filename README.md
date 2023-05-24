@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel, a computer engineering student.
 
-- 👀 I’m interested on software development, mostly web and mobile. I also like learning computer security as well.
+- 👀 I’m interested on software development, mostly web (back-end) and mobile. I also like learning computer security as well.
 
 - I have knowledge in the following languages/frameworks: Java, PHP, C, HTML, CSS, JavaScript, SQL(mySQL), Bootstrap(framework), jQuery.
 
@@ -12,7 +12,7 @@
 ========= PT-BR ==========
 - 👋 Olá, sou Gabriel, um estudante de engenharia de computação.
 
-- 👀 Me interesso por desenvolvimento de software, principalmente web e mobile. Mas também me interesso em aprender cybersegurança.
+- 👀 Me interesso por desenvolvimento de software, principalmente web (back-end) e mobile. Mas também me interesso em aprender cybersegurança.
 
 - Tenho conhecimento nas seguintes linguagens/frameworks: Java, PHP, C, HTML, CSS, JavaScript, SQL(mySQL), Bootstrap, jQuery.
 
