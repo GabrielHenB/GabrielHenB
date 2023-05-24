@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gabriel, a computer engineering student.
 
-- 👀 I’m interested in software development, on web or mobile. I also like learning computer security and computer graphics as well.
+- 👀 I’m interested on software development, mostly web and mobile. I also like learning computer security as well.
 
-- I have basic knowledge in the following languages/frameworks: Java, C, HTML, CSS, JavaScript, SQL, Bootstrap(framework).
+- I have knowledge in the following languages/frameworks: Java, PHP, C, HTML, CSS, JavaScript, SQL(mySQL), Bootstrap(framework), jQuery.
 
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
@@ -12,9 +12,9 @@
 ========= PT-BR ==========
 - 👋 Olá, sou Gabriel, um estudante de engenharia de computação.
 
-- 👀 Me interesso por desenvolvimento de software, em web e mobile. Mas também me interesso em aprender segurança e computação gráfica.
+- 👀 Me interesso por desenvolvimento de software, principalmente web e mobile. Mas também me interesso em aprender cybersegurança.
 
-- Tenho conhecimento básico nas seguintes linguagens/frameworks: Java, C, HTML, CSS, JavaScript, SQL, Bootstrap.
+- Tenho conhecimento nas seguintes linguagens/frameworks: Java, PHP, C, HTML, CSS, JavaScript, SQL(mySQL), Bootstrap, jQuery.
 
 - 📫 Como me encontrar:
 - LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
