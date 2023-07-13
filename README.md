@@ -2,7 +2,7 @@
 <a href='https://br.linkedin.com/in/gabriel-braz-4a6b06224?trk=people-guest_people_search-card' >Linkedin</a>
 
 ## About Me
-- 👀 I'm a computer engineering student who enjoys learning about techonology and science in general. As a developer I mostly focus on web back-end development, but I'm also highly interested on cybersecurity and computer networks.
+- 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I mostly focus on web back-end development, but I'm also highly interested on cybersecurity and computer networks.
 
 - At the moment I'm learning the Laravel framework and Vue.js
 
@@ -27,7 +27,7 @@
 ## 👋 Olá, sou Gabriel, um estudante de engenharia de computação.
 <a href='https://br.linkedin.com/in/gabriel-braz-4a6b06224?trk=people-guest_people_search-card' >Linkedin</a>
 
-- 👀 Sou um estudante de engenharia de computação, me interesso por tecnologia e ciência em geral. Como desenvolvedor tenho foco em web back-end, mas também me interesso por cybersegurança e redes de computadores.
+- 👀 Sou um estudante de engenharia de computação, me interesso por tecnologia em geral. Como desenvolvedor tenho foco em web back-end, mas também me interesso por cybersegurança e redes de computadores.
 
 ## 📫 Como me encontrar:
 - LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
