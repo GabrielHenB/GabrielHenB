@@ -4,7 +4,7 @@
 ## About Me
 - 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I mostly focus on web back-end development, but I'm also highly interested on cybersecurity and computer networks.
 
-- At the moment I'm learning the Laravel framework and Vue.js
+- At the moment I'm studying the Laravel framework.
 
 ## Some languages/frameworks/tools I use  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
