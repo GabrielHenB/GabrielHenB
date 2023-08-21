@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Gabriel a computer engineering student
-<!--<img align='left'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' />-->
-<img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' />
+<img align='left'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' />
+<!-- <img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' /> -->
 <div align='right'>
         - 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I mostly focus on web <strong>back-end</strong> development, but I'm also highly interested on <strong> cybersecurity </strong> and computer  <strong> networks </strong>. <br><br>
        - At the moment I'm studying <strong>Vue.js</strong> and <strong>Laravel</strong> frameworks. <br><br>
@@ -43,8 +43,8 @@
       <li> I also know a bit about hardware (Arduino / C++ for microcontrollers) </li>
     </ul>
 </div>
-<img align='right'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' />
-<!-- <img align="right" height='300' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt="Other" /> -->
+<!-- <img align='right'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' /> -->
+<img align="right" height='300' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt="Other" />
 
 ## Some languages/frameworks/tools I use  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
