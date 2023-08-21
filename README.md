@@ -8,7 +8,7 @@
 <br> <br> <br>
 <!-- <a href='https://br.linkedin.com/in/gabriel-braz-4a6b06224?trk=people-guest_people_search-card' >Linkedin</a> -->
 <div align='center'>
-  <div class="test">
+  <!--<div class="test">-->
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GabrielHenB&show_icons=true&hide=rank&theme=midnight-purple&include_all_commits=true&rank_icon=github"
@@ -19,8 +19,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielHenB&show_icons=true&include_all_commits=true&rank_icon=github" />
-</picture></div>
-<div class="test"><picture>
+</picture><!--</div>
+<div class="test">--><picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=midnight-purple&langs_count=8"
     media="(prefers-color-scheme: dark)"
@@ -30,7 +30,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=gruvbox_light&langs_count=8" />
-</picture></div>
+</picture><!--</div>-->
 </div>
 
 ## About Me
