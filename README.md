@@ -38,7 +38,7 @@
 <div align='center'>
     <ul>
         <li>👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I have some full-stack knowledge, however I mostly focus on web back-end development, but I'm also highly interested on cybersecurity and computer networks. </li>
-      <li> At the moment I'm studying Vue.js framework and Inertia. I know the basics of Laravel already. </li>
+      <li> Sometimes I do some personal projects as practice </li>
       <li> My favorite languages are PHP, Java and Javascript. </li>
       <li> I also know a bit about hardware (Arduino / C++ for microcontrollers) </li>
     </ul>
