@@ -3,7 +3,7 @@
 <!-- <img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' /> -->
 <div align='right'>
         - 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I focus on full-stack web development, although a bit more in <strong>back-end</strong> development, but I'm also  interested on <strong> cybersecurity </strong> and computer  <strong> networks </strong>. <br><br>
-       - At the moment I'm studying <strong>Inertia JS</strong> and <strong>Flask</strong><br><br>
+       - At the moment I'm studying <strong>React JS</strong> and <strong>Next JS</strong><br><br>
 </div>
 <br> <br> <br> <br> <br>
 <br> <br> <br>
@@ -40,6 +40,7 @@
         <li>👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I have some full-stack knowledge, however I mostly focus on web back-end development, but I'm also highly interested on cybersecurity and computer networks. </li>
       <li> Sometimes I do some personal projects as practice </li>
       <li> My favorite languages are PHP, Java and Javascript. </li>
+        <li>My framework stack at the moment is Laravel Vue or Flask Vue</li>
       <li> I also know a bit about hardware (Arduino / C++ for microcontrollers) </li>
     </ul>
 </div>
