@@ -71,7 +71,7 @@
 ## 👋 Olá, sou Gabriel, um estudante de engenharia de computação.
 <a href='https://br.linkedin.com/in/gabriel-braz-4a6b06224?trk=people-guest_people_search-card' >Linkedin</a>
 
-- 👀 Sou um estudante de engenharia de computação, me interesso por tecnologia em geral. Como desenvolvedor tenho conhecimentos em web full-stack mas foco em back-end, além disso, também me interesso por cybersegurança e redes de computadores.
+- 👀 Sou um estudante de engenharia de computação, me interesso por tecnologia em geral. Como desenvolvedor tenho conhecimentos em web full-stack mas foco em back-end, além disso, também me interesso por cybersegurança e redes de computadores. Minha stack é Laravel/Vue ou Flask/Vue.
 
 ## 📫 Como me encontrar:
 - LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
