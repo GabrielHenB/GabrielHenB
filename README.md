@@ -2,7 +2,7 @@
 <img align='left'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' />
 <!-- <img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' /> -->
 <div align='right'>
-        - 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I focus on full-stack web development, although a bit more in <strong>back-end</strong> development, but I'm also  interested on <strong> cybersecurity </strong> and computer  <strong> networks </strong>. <br><br>
+        - 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I focus on full-stack web development, although a bit more in <strong>back-end</strong> development, but I'm also  interested on <strong> cybersecurity </strong>. <br><br>
        - At the moment I'm studying <strong>React JS</strong> and <strong>Next JS</strong><br><br>
 </div>
 <br> <br> <br> <br> <br>
