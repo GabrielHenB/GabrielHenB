@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Gabriel a computer engineering student
+# 👋 Hi, I’m Gabriel, a computer engineer and developer 👨‍💻!
 <img align='left'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' />
 <!-- <img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' /> -->
 <div align='right'>
-        - 👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I focus on <strong>Full-stack Web</strong> development, but I'm also  interested on <strong> cybersecurity </strong>. <br><br>
+        - I'm a computer engineering student who enjoys learning about techonology, science, hardware and programming. As a developer, I focus on <strong>Full-Stack Web</strong> development, but I'm also interested on <strong> cybersecurity </strong> as a whole. <br><br>
        - At the moment I'm studying <strong>Next JS</strong> and the <strong>Ionic framework</strong><br><br>
 </div>
 <br> <br> <br> <br> <br>
@@ -34,14 +34,14 @@
 </picture><!--</div>-->
 </div>
 
-## About Me
+## More About Me
 <div align='center'>
     <ul>
-        <li>👀 I'm a computer engineering student who enjoys learning about techonology in general. As a developer I have some full-stack knowledge, however I mostly focus on web back-end development, but I'm also highly interested on cybersecurity and computer networks. </li>
-      <li> Sometimes I do some personal projects as practice </li>
+        <li>A computer engineer who enjoys learning about techonology! As a developer I have full-stack knowledge and web development is my focus, but I'm also highly interested on cybersecurity and computer hardware as a whole. </li>
+      <li> A great deal of my repositories are personal projects or freelancing stuff </li>
       <li> My favorite languages are PHP, Java and Javascript. </li>
-        <li>My framework stack at the moment is Laravel Vue or Flask Vue</li>
-      <li> I also know a bit about hardware (Arduino / C++ for microcontrollers) </li>
+      <li>My tech stack is mostly <strong>Vue.js/React.js</strong> for frontend and <strong>Laravel PHP / Flask Python</strong> for backend.</li>
+      <li> I also know a bit about hardware, such as Arduino / C++ for microcontrollers and VHDL. </li>
     </ul>
 </div>
 <!-- <img align='right'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' /> -->
