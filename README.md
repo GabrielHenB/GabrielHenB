@@ -63,7 +63,6 @@
 
 <img align="right" height='300' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt="Other" />
 
-
 ## 🖥 Frameworks,  Languages, Techs and Libraries I use
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
