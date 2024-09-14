@@ -12,7 +12,7 @@
 <h3 align="center"> Technologies </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,js,laravel,php,flask,python,java,tailwind,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue,react,js,laravel,php,flask,python,java,docker,html,css,tailwind,bootstrap&theme=dark" />
   </a>
 </p>
 <p align="center"> and a few others... </p>
