@@ -2,13 +2,14 @@
 <img align='left'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' />
 <!-- <img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' /> -->
 <div align='right'>
-        - I'm a computer engineering student who enjoys learning about techonology and programming. As a developer, I focus on <strong>Full-Stack Web</strong> development, but I'm also interested on <strong> cybersecurity </strong> and engineering as a whole. <br><br>
+        - I'm a computer engineering student who enjoys learning about techonology and programming.<br><br>
+        - As a developer, I focus on <strong>Full-Stack Web</strong> development, but I'm also interested on <strong> cybersecurity </strong> and engineering as a whole.<br><br>
         - At the moment I'm studying <strong>Next JS</strong>, the <strong>Ionic framework</strong> and the <strong>Spring framework</strong><br><br>
         - Feel free to check my <a href='https://gabrielhenb.github.io/'>Portfolio</a>
 </div>
 
-<br> <br>
-<h3 align="center"> Tech Stack </h3>
+<br> <br> <br>
+<h3 align="center"> Technologies </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,react,laravel,php,flask,python,java,tailwind,docker&theme=dark" />
@@ -45,6 +46,8 @@
 </picture><!--</div>-->
 </div>
 
+<br>
+
 ## 😁 About Me
 <div align='center'>
     <ul>
@@ -57,7 +60,9 @@
     </ul>
 </div>
 <!-- <img align='right'  src='https://media.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif' alt='Something' /> -->
+
 <img align="right" height='300' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt="Other" />
+
 
 ## 🖥 Frameworks,  Languages, Techs and Libraries I use
 
@@ -79,6 +84,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ## 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/gabriel-braz-4a6b06224/ 
