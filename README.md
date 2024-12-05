@@ -4,7 +4,7 @@
 <div align='right'>
         - I'm a computer engineering student who enjoys learning about techonology and programming.<br><br>
         - As a developer, I focus on <strong>Full-Stack Web</strong> development, but I'm also interested on <strong> cybersecurity </strong> and engineering as a whole.<br><br>
-        - At the moment I'm studying <strong>Next JS</strong>, the <strong>Ionic framework</strong> and the <strong>Spring framework</strong><br><br>
+        - At the moment I'm studying <strong>Ionic</strong> and <strong>Spring frameworks</strong><br><br>
         - Feel free to check my <a href='https://gabrielhenb.github.io/'>Portfolio</a>
 </div>
 
